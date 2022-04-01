@@ -1,0 +1,31 @@
+---
+canvas: "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "St. Peter",
+            "purpose": "commenting",
+            "creator": {
+                "id": "beahodel",
+                "name": "beahodel"
+            },
+            "created": "2022-04-01T07:32:53.180Z",
+            "modified": "2022-04-01T07:32:55.669Z"
+        }
+    ],
+    "target": {
+        "source": "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=484.1191711425781,561.309326171875,161.00747680664062,298.6805419921875"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "441f22de-7403-42ef-8eb9-2840241dc8c7.json",
+    "motivation": "commenting"
+}
