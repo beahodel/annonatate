@@ -1,0 +1,31 @@
+---
+canvas: "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg"
+order: 7
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Schiffl\u00e4ndeplatz",
+            "purpose": "commenting",
+            "creator": {
+                "id": "beahodel",
+                "name": "beahodel"
+            },
+            "created": "2022-04-01T07:34:39.653Z",
+            "modified": "2022-04-01T07:34:43.889Z"
+        }
+    ],
+    "target": {
+        "source": "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2204.448974609375,1018.6638793945312,716.366455078125,102.67144775390625"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f25f8c03-0ff8-4cae-ad29-324c834170d5.json",
+    "motivation": "commenting"
+}
