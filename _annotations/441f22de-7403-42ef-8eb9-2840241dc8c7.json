@@ -4,19 +4,7 @@ order: 5
 ---
 {
     "type": "Annotation",
-    "body": [
-        {
-            "type": "TextualBody",
-            "value": "St. Peter",
-            "purpose": "commenting",
-            "creator": {
-                "id": "beahodel",
-                "name": "beahodel"
-            },
-            "created": "2022-04-01T07:32:53.180Z",
-            "modified": "2022-04-01T07:32:55.669Z"
-        }
-    ],
+    "body": [],
     "target": {
         "source": "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg",
         "selector": {
