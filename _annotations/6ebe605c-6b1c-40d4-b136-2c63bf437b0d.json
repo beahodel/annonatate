@@ -1,0 +1,31 @@
+---
+canvas: "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Grossm\u00fcnster",
+            "purpose": "commenting",
+            "creator": {
+                "id": "beahodel",
+                "name": "beahodel"
+            },
+            "created": "2022-04-01T07:31:49.533Z",
+            "modified": "2022-04-01T07:31:52.007Z"
+        }
+    ],
+    "target": {
+        "source": "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1846.8489990234375,453.9710388183594,527.3577880859375,366.3503112792969"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6ebe605c-6b1c-40d4-b136-2c63bf437b0d.json",
+    "motivation": "commenting"
+}
