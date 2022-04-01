@@ -4,7 +4,30 @@ order: 5
 ---
 {
     "type": "Annotation",
-    "body": [],
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "St. Peter",
+            "purpose": "commenting",
+            "creator": {
+                "id": "beahodel",
+                "name": "beahodel"
+            },
+            "created": "2022-04-01T07:41:02.220Z",
+            "modified": "2022-04-01T07:41:04.688Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Kirche",
+            "purpose": "tagging",
+            "creator": {
+                "id": "beahodel",
+                "name": "beahodel"
+            },
+            "created": "2022-04-01T07:41:11.988Z",
+            "modified": "2022-04-01T07:41:12.971Z"
+        }
+    ],
     "target": {
         "source": "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg",
         "selector": {
