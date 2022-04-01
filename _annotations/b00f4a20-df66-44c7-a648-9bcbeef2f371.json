@@ -1,0 +1,31 @@
+---
+canvas: "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg"
+order: 6
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Helmhaus",
+            "purpose": "commenting",
+            "creator": {
+                "id": "beahodel",
+                "name": "beahodel"
+            },
+            "created": "2022-04-01T07:34:07.769Z",
+            "modified": "2022-04-01T07:34:09.299Z"
+        }
+    ],
+    "target": {
+        "source": "https://beahodel.github.io/annonatate/img/derivatives/iiif/zuerich/fss00134005/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1427.412841796875,806.3207397460938,284.679931640625,259.01202392578125"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b00f4a20-df66-44c7-a648-9bcbeef2f371.json",
+    "motivation": "commenting"
+}
