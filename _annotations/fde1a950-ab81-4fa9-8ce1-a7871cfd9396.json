@@ -15,6 +15,17 @@ order: 4
             },
             "created": "2022-04-01T07:32:17.253Z",
             "modified": "2022-04-01T07:32:19.556Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Kirche",
+            "purpose": "tagging",
+            "creator": {
+                "id": "beahodel",
+                "name": "beahodel"
+            },
+            "created": "2022-04-01T07:41:19.699Z",
+            "modified": "2022-04-01T07:41:20.598Z"
         }
     ],
     "target": {
